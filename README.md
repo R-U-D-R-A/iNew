@@ -20,4 +20,4 @@ It gives the real time market sentiment and stock prediction for the selected co
 5. Copy the url generated and paste in the browser.
 6. This is how it looks......
 
-![download](C:\Users\rudra\Downloads\image (3).png)
+![download](https://user-images.githubusercontent.com/65464259/127745123-c5f401db-ba02-4de7-8925-420b75901912.png)
